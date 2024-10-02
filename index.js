@@ -15,3 +15,4 @@ console.log(email);
 // constanta declarata cu valoare
 const pi = 3.14;
 // interzisa reatribuirea de valori unei constante
+console.log(pi);
